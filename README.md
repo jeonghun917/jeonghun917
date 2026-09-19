@@ -1,16 +1,17 @@
-## Hi there 👋
+# Jeonghun Mun
 
-<!--
-**jeonghun917/jeonghun917** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I build private infrastructure for long-running AI-assisted software development and use it across several projects.
 
-Here are some ideas to get you started:
+Current work includes:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- AI Development Control Plane — continuity, bounded execution, validation, review, and promotion
+- Ars Mentis / VELA — persistent AI continuity
+- Pharos Orbis — provenance-grounded information systems
+- C3 — speech and interaction systems
+- Ars Bellum — simulation and game systems
+
+Public notes:
+- [AI Development Control Plane](https://github.com/jeonghun917/ai-development-control-plane)
+- [TTS Blind Eval Studio](https://github.com/jeonghun917/tts-blind-eval-studio)
+
+Most production repositories are private.
