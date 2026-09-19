@@ -1,6 +1,6 @@
 # Jeonghun Mun
 
-I build private infrastructure for long-running AI-assisted software development and use it across several projects.
+I built a control plane in the first place because of shitty agent memory and constant session changes.
 
 Current work includes:
 
