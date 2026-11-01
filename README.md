@@ -10,6 +10,12 @@ hands them to you or your coding agent right before an edit, and a GitHub Action
 behind the code. MIT, no dependencies, no model calls.
 [Site](https://readfirst-cloud.vercel.app) · [npm](https://www.npmjs.com/package/readfirst) · [Marketplace](https://github.com/marketplace/actions/readfirst-map-check)
 
+### [Welsmere](https://www.welsmere.app): British English speaking practice
+
+Phoneme-level pronunciation analysis compared against native British speakers, a UK expressions course, and
+situational conversations where every answer is corrected, from grammar to how natural the full sentence sounds.
+Live, with paying users.
+
 Current work includes:
 
 - AI Development Control Plane — continuity, bounded execution, validation, review, and promotion
